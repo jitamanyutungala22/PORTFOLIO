@@ -11,7 +11,7 @@ $(document).ready(function(){
         if (sc > 150){
             $(".header").addClass("sticky");
         }else{
-            $(".header").removeClass("stidky");
+            $(".header").removeClass("sticky");
         }
 
    }); 
